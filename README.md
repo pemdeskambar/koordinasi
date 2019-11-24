@@ -45,6 +45,12 @@
   * DIATAS 2 JUTA KENAK PAJAK PPN + PPh 22
   * MAMIN KENA PAJAK PPh 23
 
+**Evaluasi**
+  * Masih banyak Nota yang sudah ditempel namun belum dikasi tanggal
+  * ditahap I banyak Surat Pesanan yang tidak diberi nomor surat, padahal sudah ada evaluasi ketika **Monitoring**
+  * Cek Ulang **Bukti Pemindahan Bukuan** yang dari bank, karena tidak sesuai
+  * Arsip tidak tertata rapi, sehingga menyulitkan ketika dicari
+
 > SAMA-SAMA BEKERJA TIDAK ADA YANG MENJADI RAJA
 
 
