@@ -59,6 +59,8 @@
 
 #### Ada pertanyaan Hubungi :
 * [Faizul Amaly](https://facebook.com/faizulamaly "On Facebook")
+* [Sekretaris Desa](https://api.whatsapp.com/send?phone=6281939432248 "Moh. Asdin")
+* [OPDes](https://api.whatsapp.com/send?phone=6285230731671 "Hosriyanto")
 
 [Dokumentasi Monitoring Kecamatan](https://github.com/pemdeskambar/koordinasi/blob/master/DOKUMENTASI.md "Dokumentasi Kecamatan")
 
