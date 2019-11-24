@@ -7,10 +7,13 @@
   - [ ] Kwitansi Siskeudes Koran (Katanya ada di pak camat), Kwitansi koran JARRAK tidak ada dan semua kwitansi tidak ditulis. Mau ditulis sendiri ataukah siapa?
   - [ ] Bukti Transfer TPK
   - [X] Nomor surat pesanan tidak diisi
+  - [ ] Stempel Buhari
 
 **DD**
   - [ ] Makanan Tambahan Balita
   - [ ] Insentif Kader Posyandu
+  - [ ] Bukti Transfer TPK
+  - [ ] TTD Sugianto
 ---
 ### SPJ Tahap II
 **ADD**
