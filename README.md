@@ -3,7 +3,7 @@
 ### SPJ Tahap I
 **ADD**
   - [ ] Bukti Transfer (Siltap kades, perangkat, staff, bpd). Yang bukti Pemindahan bukuan dari bank nominalnya tidak sesuai
-  - [ ] FC Buktri Transfer BPJS Kesehatan, karena dilaksanakan di Tahap II
+  - [ ] FC Bukti Transfer BPJS Kesehatan, karena dilaksanakan di Tahap II
   - [ ] Kwitansi Siskeudes Koran (Katanya ada di pak camat), Kwitansi koran JARRAK tidak ada dan semua kwitansi tidak ditulis. Mau ditulis sendiri ataukah siapa?
   - [ ] Bukti Transfer TPK
   - [X] Nomor surat pesanan tidak diisi
