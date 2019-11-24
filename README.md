@@ -46,3 +46,9 @@
   * MAMIN KENA PAJAK PPh 23
 
 > SAMA-SAMA BEKERJA TIDAK ADA YANG MENJADI RAJA
+
+
+#### Ada pertanyaan Hubungi :
+[Faizul Amaly](https://facebook.com/faizulamaly "On Facebook")
+
+![Fokus](https://github.com/pemdeskambar/koordinasi/blob/master/Gambar/Work.png)
