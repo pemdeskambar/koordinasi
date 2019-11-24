@@ -13,7 +13,7 @@
   - [ ] Makanan Tambahan Balita
   - [ ] Insentif Kader Posyandu
   - [ ] Bukti Transfer TPK
-  - [ ] TTD Sugianto
+  - [ ] TTD Sugianto, Nota
 ---
 ### SPJ Tahap II
 **ADD**
