@@ -8,6 +8,7 @@
   - [ ] Bukti Transfer TPK
   - [X] Nomor surat pesanan tidak diisi
   - [ ] Stempel Buhari
+  - [ ] Dokumentasi Pelatihan PKK
 
 **DD**
   - [ ] Makanan Tambahan Balita
