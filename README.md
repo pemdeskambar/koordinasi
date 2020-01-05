@@ -1,4 +1,17 @@
 ## SPJ Pemerintah Desa Kambingan Barat
+
+#### Daftar Toko
+
+| PENJUAL     | NAMA TOKO             | ALAMAT          | NO HP | NPWP                 |
+| --          | --                    | --              | --    | --                   |
+| Edi Suwarno | Sinar Indah Tiga      | Tarogan         |       |                      |
+| Agus Wandi  |                       | Ellak Daya      |       |                      |
+| M. Junaidi  | -                     | Kambingan Barat |       |                      |
+| Sugiyanto   | -                     | Kambingan Barat |       |                      |
+| Sunarso     | UD. Agilda Rizki Jaya | Banaresep Timur | -     | -                    |
+| Sarbini     | -                     | Lembung Timur   | -     | -                    |
+| Nabila      | Meubel C1             | Sumenep         | -     | -                    |
+| Sunarto     | Wahana Kontruksi      | Lenteng Timur   | -     | 55.645.601.0-608.000 |
 ---
 ### SPJ Tahap I
 **ADD**
