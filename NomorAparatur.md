@@ -4,12 +4,12 @@
 | 1  | Akh. Zainuddin | Kepala Desa             | 085331638898 |
 | 2  | Moh. Asdin     | Sekretaris Desa         | 081939432248 |
 | 3  | Lutfiyah       | Kaur Keuangan           | 081939047037 |
-| 4  | Hozaimah       | Kaur Tatausaha dan Umum | -            |
+| 4  | Hozaimah       | Kaur Tatausaha dan Umum | 085231400318 |
 | 5  | Abd. Hamid     | Kaur Perencanaan        | 085330674564 |
 | 6  | Shadiq Jauhari | Kasi Pemerintahan       | 081805021931 |
 | 7  | Munasik        | Kasi Kesejahteraan      | 085231485618 |
 | 8  | K. Murahyak    | Kasi Pelayanan          | 085258855245 |
-| 9  | Misnal         | Kadus Daja Lorong       | -            |
+| 9  | Misnal         | Kadus Daja Lorong       | 085232408405 |
 | 10 | Slamet         | Kadus Bantengan         | 085215573838 |
 | 11 | Muniham        | Ketua BPD               | 087758202743 |
 | 12 | Mos. Usman     | Wakil BPD               | 085334355667 |
